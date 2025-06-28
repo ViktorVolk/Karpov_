@@ -1,2 +1,5 @@
 Урок по регресси с ТензорФлоу
 https://www.tensorflow.org/tutorials/keras/regression?hl=ru
+
+Обзор градиента с инерцией Momentum
+https://distill.pub/2017/momentum/
